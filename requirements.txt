@@ -1,0 +1,5 @@
+streamlit>=1.40
+folium>=0.17
+streamlit-folium>=0.22
+earthengine-api>=0.1.400
+google-auth>=2.30
